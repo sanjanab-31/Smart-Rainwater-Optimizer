@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.log
+
+# Virtual environments
+venv/
+env/
+
+# VSCode settings
+.vscode/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Other
+*.egg-info/
+*.idea/
+
+node_modules/
+
